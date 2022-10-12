@@ -1,1 +1,1 @@
-web: gunicorn app1.wsgi
+worker: python app1.wsgi
