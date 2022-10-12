@@ -1,1 +1,1 @@
-worker: python app1.wsgi
+worker: python app1/views.py
